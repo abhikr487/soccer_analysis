@@ -2,3 +2,4 @@ Python = 1.1
 numpy = 1.22
 matplotlib = 1.6
 seaborn = 1.111
+This is from me 
